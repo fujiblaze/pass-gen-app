@@ -21,16 +21,16 @@ Need a strong password? This app has you covered. Built with **React**, **TypeSc
 - [shadcn/ui](https://ui.shadcn.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-### 🛠️ Getting Started
+## 🛠️ Getting Started
 
-## 1. Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/fujiblaze/password-generator.git
 cd password-generator
 ```
 
-## 2. Install Dependencies
+### 2. Install Dependencies
 
 ```bash
 npm install
@@ -38,7 +38,7 @@ npm install
 yarn install
 ```
 
-## 3. Run the Development Server
+### 3. Run the Development Server
 
 ```bash
 npm run dev
