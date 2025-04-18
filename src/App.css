@@ -1,0 +1,24 @@
+.rainbow {
+    animation-name: change-color;
+    animation-duration: 5s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+@keyframes change-color {
+    25% {
+        color: #00A4BD;
+    }
+
+    50% {
+        color: #FF7A59;
+    }
+
+    75% {
+        color: #00BDA5;
+    }
+
+    100% {
+        color: #6A78D1;
+    }
+}
