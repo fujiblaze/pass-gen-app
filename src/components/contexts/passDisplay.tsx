@@ -4,7 +4,7 @@ const passDisplay = ({ password, onClick, text }: { password: string; onClick: (
 
   return (
     <div className="flex items-center justify-between gap-8">
-      <div className="border p-3 rounded-xl w-[350px] h-12">
+      <div className="border p-3 rounded-xl w-full h-12">
         <h2 className="overflow-hidden text-ellipsis whitespace-nowrap">
           {password}
         </h2>
